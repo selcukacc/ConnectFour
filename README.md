@@ -1,3 +1,3 @@
 # ConnectFour
 
-![](.github/ConnectFour/app1.png)
+![](app1.png)
